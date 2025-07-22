@@ -2,7 +2,7 @@
 % Please edit documentation in R/BinaryNet.R
 \name{as.network.UndirectedNet}
 \alias{as.network.UndirectedNet}
-\title{convert and UndirectedNet to a network object}
+\title{Conversion to network object}
 \usage{
 \method{as.network}{UndirectedNet}(x, ...)
 }
@@ -15,5 +15,5 @@
 a undirected network object
 }
 \description{
-convert and UndirectedNet to a network object
+Conversion to network object
 }
