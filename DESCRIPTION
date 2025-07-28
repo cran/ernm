@@ -1,7 +1,7 @@
 Type: Package
 Package: ernm
 Title: Exponential-Family Random Network Models
-Version: 1.0.1
+Version: 1.0.2
 Date: 2025-7-22
 Authors@R: c(person(given = "Ian",
                     family = "Fellows",
@@ -24,9 +24,9 @@ LazyLoad: yes
 RcppModules: ernm
 RoxygenNote: 7.3.2
 NeedsCompilation: yes
-Packaged: 2025-07-22 21:01:12 UTC; dac6
+Packaged: 2025-07-28 16:25:14 UTC; dac6
 Author: Ian Fellows [aut],
   Duncan Clark [aut, cre]
 Maintainer: Duncan Clark <dac6@williams.edu>
 Repository: CRAN
-Date/Publication: 2025-07-22 21:22:27 UTC
+Date/Publication: 2025-07-28 18:20:02 UTC
